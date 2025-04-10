@@ -21,6 +21,10 @@ outputs/models/
 
 # Ignore raw data (since it's usually large and shouldn't be version-controlled)
 data/raw/
+
 # Ignore everything in processed folder except CSV files
 !data/processed/
 !data/processed/*.csv
+
+# Project-specific file to ignore
+.qodo
