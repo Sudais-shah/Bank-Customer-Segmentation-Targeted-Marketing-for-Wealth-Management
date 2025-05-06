@@ -1,9 +1,9 @@
 # Bank-Customer-Segmentation-Targeted-Marketing-model
 
-# 🧠 Project Overview
+## 🧠 Project Overview
 This project aims to segment credit card customers into distinct groups using unsupervised machine learning, specifically KMeans clustering, to assist financial institutions in crafting targeted marketing strategies, improving customer engagement, and reducing churn.
 
-# 📌 Objectives
+## 📌 Objectives
 - Perform end-to-end customer segmentation using clustering.
 
 - Engineer meaningful features from raw financial attributes.
@@ -12,7 +12,7 @@ This project aims to segment credit card customers into distinct groups using un
 
 - Profile each customer segment with actionable business insights.
 
-🗃️ Dataset Summary
+## 🗃️ Dataset Summary
 - Source: Kaggle (Credit Card Dataset for Clustering)
 
 - Rows: 8,950 | Columns: 18
@@ -21,7 +21,7 @@ This project aims to segment credit card customers into distinct groups using un
 
 - Key Features: BALANCE, PURCHASES, PAYMENTS, CREDIT_LIMIT, etc.
 
-# 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
 - Pandas, NumPy – Data Cleaning & Preprocessing
 
@@ -31,7 +31,7 @@ This project aims to segment credit card customers into distinct groups using un
 
 - Silhouette Score – Clustering Evaluation
 
-# 📊 Key Steps
+## 📊 Key Steps
 - EDA & Data Cleaning
 
 Detected and handled missing values
@@ -99,5 +99,5 @@ project/
     └──model
 │
 ├── README.md
-📬 Let's Connect
-📌 Connect on LinkedIn : linkedin.com/in/sudais-shah-938b9a312
+## 📬 Let's Connect
+- 📌 Connect on LinkedIn : https://www.linkedin.com/in/sudais-shah-938b9a312/
